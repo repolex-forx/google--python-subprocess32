@@ -82,6 +82,21 @@
       ],
       "ast": [
         "aggregate/ast/9981c96390d91ea4c5f8f12e77d4f34b02350b3b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/9981c96390d91ea4c5f8f12e77d4f34b02350b3b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/extension.py"
+        }
       ]
     }
   ],
